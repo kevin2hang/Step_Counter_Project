@@ -1,5 +1,5 @@
 # Step_Counter_Project
-- Developed a step counter using the csv data outputted from a phone’s accelerometer
+- Developed a step counter that analyzes the csv data outputted from a phone’s accelerometer
 
 - The step counter function analyzes:
   - difference between the maximums and minimums of acceleration data
