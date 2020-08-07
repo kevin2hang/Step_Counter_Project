@@ -1,4 +1,4 @@
-# Step_Counter_Project
+# Step Counter Project
 - Developed a step counter that analyzes the csv data outputted from a phone’s accelerometer
 
 - The step counter function analyzes:
